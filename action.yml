@@ -1,4 +1,4 @@
-name: 'Hello World test'
+name: 'flodav repo Hello World test'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
